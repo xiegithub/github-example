@@ -1,2 +1,1 @@
-lesson master-C4
 master-C4 commit 1
